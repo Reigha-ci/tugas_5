@@ -5,5 +5,5 @@ $setengah = 0.5;
 $luasSegitiga = $setengah * $alas * $tinggi;
 
 echo "Rumus: L = 1/2 × alas × tinggi <br>";
-echo "Luas Segitiga = $luasSegitiga";
+echo "Luas Segitiga dari alas $alas dan tinggi $tinggi adalah = $luasSegitiga";
 ?>

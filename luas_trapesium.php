@@ -6,5 +6,5 @@ $tinggi = 5;
 $luasTrapesium = $setengah * ($sisiAtas + $sisiBawah) * $tinggi;
 
 echo "Rumus: L = 1/2 × (a + b) × t <br>";
-echo "Luas Trapesium = $luasTrapesium";
+echo "Luas Trapesium dari sisi atas $sisiAtas, sisi bawah $sisiBawah dan tinggi $tinggi adalah = $luasTrapesium";
 ?>

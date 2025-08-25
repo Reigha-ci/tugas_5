@@ -4,5 +4,5 @@ $jariJari = 7;
 $kelilingLingkaran = 2 * $pi * $jariJari;
 
 echo "Rumus: K = 2 × π × r <br>";
-echo "Keliling Lingkaran = $kelilingLingkaran";
+echo "Keliling Lingkaran dari jari-jari $jariJari adalah = $kelilingLingkaran";
 ?>
